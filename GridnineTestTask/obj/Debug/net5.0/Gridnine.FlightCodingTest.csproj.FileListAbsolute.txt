@@ -1,0 +1,16 @@
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\bin\Debug\net5.0\Gridnine.FlightCodingTest.exe
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\bin\Debug\net5.0\Gridnine.FlightCodingTest.deps.json
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\bin\Debug\net5.0\Gridnine.FlightCodingTest.runtimeconfig.json
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\bin\Debug\net5.0\Gridnine.FlightCodingTest.runtimeconfig.dev.json
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\bin\Debug\net5.0\Gridnine.FlightCodingTest.dll
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\bin\Debug\net5.0\ref\Gridnine.FlightCodingTest.dll
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\bin\Debug\net5.0\Gridnine.FlightCodingTest.pdb
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\obj\Debug\net5.0\Gridnine.FlightCodingTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\obj\Debug\net5.0\Gridnine.FlightCodingTest.AssemblyInfoInputs.cache
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\obj\Debug\net5.0\Gridnine.FlightCodingTest.AssemblyInfo.cs
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\obj\Debug\net5.0\Gridnine.FlightCodingTest.csproj.CoreCompileInputs.cache
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\obj\Debug\net5.0\Gridnine.FlightCodingTest.dll
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\obj\Debug\net5.0\ref\Gridnine.FlightCodingTest.dll
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\obj\Debug\net5.0\Gridnine.FlightCodingTest.pdb
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\obj\Debug\net5.0\Gridnine.FlightCodingTest.genruntimeconfig.cache
+D:\ITStuff\Projects(Solutions)\GridnineTestTask\obj\Debug\net5.0\Gridnine.FlightCodingTest.csprojAssemblyReference.cache
